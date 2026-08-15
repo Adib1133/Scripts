@@ -310,11 +310,9 @@ project-folder/
 
 ## License
 
-No license is currently specified for this project.
+This project is for internal workplace use.
 
-If this project is distributed publicly, add an appropriate license file
-such as `MIT`, `Apache-2.0`, or another license that matches the
-intended usage.
+
 
 ## Author
 
