@@ -1,4 +1,4 @@
-# PDF to DOCX Converter - Production Ready
+# PDF to DOCX Converter
 
 
 - OCR support for scanned pages
